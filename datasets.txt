@@ -1,0 +1,2 @@
+Dataset of X-ray images for Lung lesion classification and tuberclosis detection using python:
+https://www.kaggle.com/datasets/tawsifurrahman/tuberculosis-tb-chest-xray-dataset
